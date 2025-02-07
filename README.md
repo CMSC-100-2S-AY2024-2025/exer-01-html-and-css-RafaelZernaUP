@@ -3,3 +3,8 @@
 Zerna, Niño Rafael 
 CMSC 100 U-5L
 Exer 2 HTML and CSS
+Challenge Encountered: Thinking of the content and layout
+Solution: Time and patience (at kape)
+
+References Used:
+https://www.w3schools.com/css/css3_variables.asp
